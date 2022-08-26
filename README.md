@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rfanan
-- 👀 I’m interested in "you..."
-- 🌱 I’m currently learning kotlin 
+- 👀 I’m interested in ''
+- 🌱 I’m currently learning kotlin and github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just say "Hi"
 
